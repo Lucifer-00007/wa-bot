@@ -28,7 +28,7 @@
     "axios": "^0.21.1",
     "bent": "^7.3.12",
     "canvacord": "^5.1.0",
-    "chalk": "^4.1.0",
+    "chalk": "^5.2.0",
     "dotenv": "^10.0.0",
     "emoji-unicode": "^2.0.1",
     "figlet": "^1.5.0",
